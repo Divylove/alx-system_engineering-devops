@@ -1,1 +1,1 @@
-this repository contains the solution to 0x00-shell tasks
+this repository contains the solutions to the shell task
